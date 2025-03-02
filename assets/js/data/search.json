@@ -1,6 +1,6 @@
 [
   {
-    "title": "RabbitStore - TryHackMe",
+    "title": "Rabbit Store - TryHackMe",
     "url": "/posts/RabbitStore/",
     "categories": "TryHackMe",
     "tags": "web, linux, enumeration, ssrf, ssti, rabbitmq, medium",
