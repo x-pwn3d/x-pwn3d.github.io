@@ -1,0 +1,95 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://x-pwn3d.github.io/</id>
+  <title>Pwn3d</title>
+  <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
+  <updated>2025-03-02T14:47:29+01:00</updated>
+  <author>
+    <name>x-pwn3d</name>
+    <uri>https://x-pwn3d.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://x-pwn3d.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://x-pwn3d.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 x-pwn3d </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>RabbitStore - TryHackMe</title>
+    <link href="https://x-pwn3d.github.io/posts/RabbitStore/" rel="alternate" type="text/html" title="RabbitStore - TryHackMe" />
+    <published>2025-03-02T00:00:00+01:00</published>
+  
+    <updated>2025-03-02T00:00:00+01:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/RabbitStore/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/RabbitStore/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="TryHackMe" />
+    
+  
+
+  <summary>Demonstrate your web application testing skills and the basics of Linux to escalate your privileges.  This machine is part of TryHackMe and is categorized as a medium-level Linux box. It offers a great learning opportunity by combining web enumeration, SSRF exploitation and privilege escalation. The challenge revolves around exploring a web application, uncovering misconfigurations, and leverag...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Titanic - Hack The Box</title>
+    <link href="https://x-pwn3d.github.io/posts/Titanic/" rel="alternate" type="text/html" title="Titanic - Hack The Box" />
+    <published>2025-02-20T00:00:00+01:00</published>
+  
+    <updated>2025-02-20T00:00:00+01:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Titanic/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Titanic/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+  
+
+  <summary>This machine is part of HTB Season 7 and is categorized as an easy Linux box. It provides a great learning experience by combining web enumeration, credential extraction, and privilege escalation. The challenge revolves around exploring a developer’s environment, uncovering sensitive information, and leveraging vulnerabilities to gain root access. Let’s dive in! Setup  Before starting the recon...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Harder - TryHackMe</title>
+    <link href="https://x-pwn3d.github.io/posts/Harder/" rel="alternate" type="text/html" title="Harder - TryHackMe" />
+    <published>2025-02-16T00:00:00+01:00</published>
+  
+    <updated>2025-02-16T00:00:00+01:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Harder/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Harder/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="TryHackMe" />
+    
+  
+
+  <summary>Real pentest findings combined (By arcc) Recon  First we need to scan the target machine (10.10.43.115) in order to find any open ports : nmap 10.10.43.115 -p- -sV -sC -oN nmapres    The scan reveals three open ports:  - 2/tcp - 22/tcp - 80/tcp   I initially tried to find subdirectories using gobuster, but it didn’t return any results. So, I switched to dirsearch:  dirsearch  -u http://harder.t...</summary>
+
+  </entry>
+
+</feed>
+
+

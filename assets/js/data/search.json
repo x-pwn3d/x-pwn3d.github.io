@@ -1,0 +1,28 @@
+[
+  {
+    "title": "RabbitStore - TryHackMe",
+    "url": "/posts/RabbitStore/",
+    "categories": "TryHackMe",
+    "tags": "web, linux, enumeration",
+    "date": "2025-03-02 00:00:00 +0100",
+    "content": "Demonstrate your web application testing skills and the basics of Linux to escalate your privileges.  This machine is part of TryHackMe and is categorized as a medium-level Linux box. It offers a g..."
+  },
+  {
+    "title": "Titanic - Hack The Box",
+    "url": "/posts/Titanic/",
+    "categories": "Hack The Box",
+    "tags": "web, linux, enumeration",
+    "date": "2025-02-20 00:00:00 +0100",
+    "content": "This machine is part of HTB Season 7 and is categorized as an easy Linux box. It provides a great learning experience by combining web enumeration, credential extraction, and privilege escalation. ..."
+  },
+  {
+    "title": "Harder - TryHackMe",
+    "url": "/posts/Harder/",
+    "categories": "TryHackMe",
+    "tags": "web, linux, enumeration",
+    "date": "2025-02-16 00:00:00 +0100",
+    "content": "Real pentest findings combined (By arcc) Recon  First we need to scan the target machine (10.10.43.115) in order to find any open ports : nmap 10.10.43.115 -p- -sV -sC -oN nmapres    The scan revea..."
+  }
+  
+]
+
