@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-03-02T16:13:42+01:00</updated>
+  <updated>2025-03-16T20:38:04+01:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>StuxCTF - TryHackMe</title>
+    <link href="https://x-pwn3d.github.io/posts/StuxCTF/" rel="alternate" type="text/html" title="StuxCTF - TryHackMe" />
+    <published>2025-03-02T00:00:00+01:00</published>
+  
+    <updated>2025-03-02T00:00:00+01:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/StuxCTF/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/StuxCTF/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="TryHackMe" />
+    
+  
+
+  <summary>Crypto, serealization, priv scalation and more …!  This machine is part of TryHackMe and is rated as a medium-level Linux challenge. It provides an excellent opportunity to practice skills in web enumeration, cryptographic exploits, and privilege escalation. Throughout the challenge, we will explore a vulnerable web application, exploit misconfigurations, and ultimately gain root access. Let’s ...</summary>
+
+  </entry>
 
   
   <entry>
