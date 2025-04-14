@@ -4,7 +4,7 @@
     "url": "/posts/StuxCTF/",
     "categories": "TryHackMe",
     "tags": "web, linux, enumeration, crypto, serealization, medium",
-    "date": "2025-03-16 00:00:00 +0100",
+    "date": "2025-03-16 00:00:00 +0200",
     "content": "Crypto, serealization, priv scalation and more …!  This machine is part of TryHackMe and is rated as a medium-level Linux challenge. It provides an excellent opportunity to practice skills in web e..."
   },
   {
@@ -12,7 +12,7 @@
     "url": "/posts/RabbitStore/",
     "categories": "TryHackMe",
     "tags": "web, linux, enumeration, ssrf, ssti, rabbitmq, medium",
-    "date": "2025-03-02 00:00:00 +0100",
+    "date": "2025-03-02 00:00:00 +0200",
     "content": "Demonstrate your web application testing skills and the basics of Linux to escalate your privileges.  This machine is part of TryHackMe and is categorized as a medium-level Linux box. It offers a g..."
   },
   {
@@ -20,7 +20,7 @@
     "url": "/posts/Titanic/",
     "categories": "Hack The Box",
     "tags": "web, linux, enumeration, path-traversal, sqlite, ImageMagick, cve-2024-41814, easy",
-    "date": "2025-02-20 00:00:00 +0100",
+    "date": "2025-02-20 00:00:00 +0200",
     "content": "This machine is part of HTB Season 7 and is categorized as an easy Linux box. It provides a great learning experience by combining web enumeration, credential extraction, and privilege escalation. ..."
   },
   {
@@ -28,7 +28,7 @@
     "url": "/posts/Harder/",
     "categories": "TryHackMe",
     "tags": "web, linux, enumeration, hash-hmac-bypass, git, medium",
-    "date": "2025-02-16 00:00:00 +0100",
+    "date": "2025-02-16 00:00:00 +0200",
     "content": "Real pentest findings combined (By arcc) Recon  First we need to scan the target machine (10.10.43.115) in order to find any open ports : nmap 10.10.43.115 -p- -sV -sC -oN nmapres    The scan revea..."
   }
   

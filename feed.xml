@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-03-17T19:52:10+01:00</updated>
+  <updated>2025-04-14T21:48:48+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>StuxCTF - TryHackMe</title>
     <link href="https://x-pwn3d.github.io/posts/StuxCTF/" rel="alternate" type="text/html" title="StuxCTF - TryHackMe" />
-    <published>2025-03-16T00:00:00+01:00</published>
+    <published>2025-03-16T00:00:00+02:00</published>
   
-    <updated>2025-03-16T00:00:00+01:00</updated>
+    <updated>2025-03-16T00:00:00+02:00</updated>
   
     <id>https://x-pwn3d.github.io/posts/StuxCTF/</id>
     <content type="text/html" src="https://x-pwn3d.github.io/posts/StuxCTF/" />
@@ -46,9 +46,9 @@
   <entry>
     <title>Rabbit Store - TryHackMe</title>
     <link href="https://x-pwn3d.github.io/posts/RabbitStore/" rel="alternate" type="text/html" title="Rabbit Store - TryHackMe" />
-    <published>2025-03-02T00:00:00+01:00</published>
+    <published>2025-03-02T00:00:00+02:00</published>
   
-    <updated>2025-03-02T16:13:32+01:00</updated>
+    <updated>2025-03-02T17:13:32+02:00</updated>
   
     <id>https://x-pwn3d.github.io/posts/RabbitStore/</id>
     <content type="text/html" src="https://x-pwn3d.github.io/posts/RabbitStore/" />
@@ -70,9 +70,9 @@
   <entry>
     <title>Titanic - Hack The Box</title>
     <link href="https://x-pwn3d.github.io/posts/Titanic/" rel="alternate" type="text/html" title="Titanic - Hack The Box" />
-    <published>2025-02-20T00:00:00+01:00</published>
+    <published>2025-02-20T00:00:00+02:00</published>
   
-    <updated>2025-03-02T16:03:33+01:00</updated>
+    <updated>2025-03-02T17:03:33+02:00</updated>
   
     <id>https://x-pwn3d.github.io/posts/Titanic/</id>
     <content type="text/html" src="https://x-pwn3d.github.io/posts/Titanic/" />
@@ -94,9 +94,9 @@
   <entry>
     <title>Harder - TryHackMe</title>
     <link href="https://x-pwn3d.github.io/posts/Harder/" rel="alternate" type="text/html" title="Harder - TryHackMe" />
-    <published>2025-02-16T00:00:00+01:00</published>
+    <published>2025-02-16T00:00:00+02:00</published>
   
-    <updated>2025-03-02T16:03:33+01:00</updated>
+    <updated>2025-03-02T17:03:33+02:00</updated>
   
     <id>https://x-pwn3d.github.io/posts/Harder/</id>
     <content type="text/html" src="https://x-pwn3d.github.io/posts/Harder/" />
