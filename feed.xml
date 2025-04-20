@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-04-14T21:48:48+02:00</updated>
+  <updated>2025-04-20T19:37:10+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Nocturnal - Hack The Box</title>
+    <link href="https://x-pwn3d.github.io/posts/Nocturnal/" rel="alternate" type="text/html" title="Nocturnal - Hack The Box" />
+    <published>2025-04-20T00:00:00+02:00</published>
+  
+    <updated>2025-04-20T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Nocturnal/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Nocturnal/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+  
+
+  <summary>Introduction  This machine is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It’s an excellent opportunity to practice skills in web enumeration, exploiting file upload vulnerabilities, and privilege escalation. Throughout this challenge, we will explore a vulnerable web application, uncover misconfigurations and ultimately escalate our privileges to gain root access....</summary>
+
+  </entry>
 
   
   <entry>
