@@ -5,7 +5,7 @@
     "categories": "Hack The Box",
     "tags": "web, linux, enumeration, RCE, privEsc, misconfiguration, easy",
     "date": "2025-04-26 00:00:00 +0200",
-    "content": "Introduction  This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation b..."
+    "content": "This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation bypass techniqu..."
   },
   {
     "title": "Nocturnal - Hack The Box",
@@ -13,7 +13,7 @@
     "categories": "Hack The Box",
     "tags": "web, linux, enumeration, Broken Access Control, misconfiguration, ISPConfig, cve-2023-46818, easy",
     "date": "2025-04-20 00:00:00 +0200",
-    "content": "Introduction  This machine is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It’s an excellent opportunity to practice skills in web enumeration, exploiting file upload v..."
+    "content": "This machine is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It’s an excellent opportunity to practice skills in web enumeration, exploiting file upload vulnerabilities..."
   },
   {
     "title": "StuxCTF - TryHackMe",

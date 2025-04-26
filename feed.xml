@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-04-26T17:47:23+02:00</updated>
+  <updated>2025-04-26T19:27:19+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -38,7 +38,7 @@
     
   
 
-  <summary>Introduction  This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation bypass techniques, lateral movement and privilege escalation. Throughout this challenge, we will explore a restricted web application, find a way to execute arbitrary code despite strong filtering, lev...</summary>
+  <summary>This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation bypass techniques, lateral movement and privilege escalation. Throughout this challenge, we will explore a restricted web application, find a way to execute arbitrary code despite strong filtering, leverage credenti...</summary>
 
   </entry>
 
@@ -62,7 +62,7 @@
     
   
 
-  <summary>Introduction  This machine is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It’s an excellent opportunity to practice skills in web enumeration, exploiting file upload vulnerabilities, and privilege escalation. Throughout this challenge, we will explore a vulnerable web application, uncover misconfigurations and ultimately escalate our privileges to gain root access....</summary>
+  <summary>This machine is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It’s an excellent opportunity to practice skills in web enumeration, exploiting file upload vulnerabilities, and privilege escalation. Throughout this challenge, we will explore a vulnerable web application, uncover misconfigurations and ultimately escalate our privileges to gain root access. Let’s dive in...</summary>
 
   </entry>
 
