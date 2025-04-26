@@ -1,5 +1,13 @@
 [
   {
+    "title": "Code - Hack The Box",
+    "url": "/posts/Code/",
+    "categories": "Hack The Box",
+    "tags": "web, linux, enumeration, RCE, privEsc, misconfiguration, easy",
+    "date": "2025-04-26 00:00:00 +0200",
+    "content": "Introduction  This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation b..."
+  },
+  {
     "title": "Nocturnal - Hack The Box",
     "url": "/posts/Nocturnal/",
     "categories": "Hack The Box",
