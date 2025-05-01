@@ -1,5 +1,13 @@
 [
   {
+    "title": "Support - Hack The Box",
+    "url": "/posts/Support/",
+    "categories": "Hack The Box",
+    "tags": "windows, active-directory, enumeration, rbcd, kerberos, s4u, evil-winrm, rubeus, easy",
+    "date": "2025-05-01 00:00:00 +0200",
+    "content": "Support is an easy-level Windows machine on Hack The Box (HTB) that offers a great introduction to Active Directory exploitation, focusing on machine account manipulation, delegation abuse, and Ker..."
+  },
+  {
     "title": "Code - Hack The Box",
     "url": "/posts/Code/",
     "categories": "Hack The Box",

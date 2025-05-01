@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-04-26T19:27:19+02:00</updated>
+  <updated>2025-05-01T22:49:20+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Support - Hack The Box</title>
+    <link href="https://x-pwn3d.github.io/posts/Support/" rel="alternate" type="text/html" title="Support - Hack The Box" />
+    <published>2025-05-01T00:00:00+02:00</published>
+  
+    <updated>2025-05-01T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Support/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Support/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+  
+
+  <summary>Support is an easy-level Windows machine on Hack The Box (HTB) that offers a great introduction to Active Directory exploitation, focusing on machine account manipulation, delegation abuse, and Kerberos ticket attacks. In this walkthrough, we’ll go from basic enumeration all the way to full DOMAIN ADMIN access by taking advantage of a subtle privilege misconfiguration and some clever ticket for...</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>Demonstrate your web application testing skills and the basics of Linux to escalate your privileges.  This machine is part of TryHackMe and is categorized as a medium-level Linux box. It offers a great learning opportunity by combining web enumeration, SSRF exploitation and privilege escalation. The challenge revolves around exploring a web application, uncovering misconfigurations, and leverag...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Titanic - Hack The Box</title>
-    <link href="https://x-pwn3d.github.io/posts/Titanic/" rel="alternate" type="text/html" title="Titanic - Hack The Box" />
-    <published>2025-02-20T00:00:00+02:00</published>
-  
-    <updated>2025-03-02T17:03:33+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/Titanic/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/Titanic/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="Hack The Box" />
-    
-  
-
-  <summary>This machine is part of HTB Season 7 and is categorized as an easy Linux box. It provides a great learning experience by combining web enumeration, credential extraction, and privilege escalation. The challenge revolves around exploring a developer’s environment, uncovering sensitive information, and leveraging vulnerabilities to gain root access. Let’s dive in! Setup  Before starting the recon...</summary>
 
   </entry>
 
