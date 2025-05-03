@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-05-01T22:49:20+02:00</updated>
+  <updated>2025-05-03T23:20:33+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Dog - Hack The Box</title>
+    <link href="https://x-pwn3d.github.io/posts/Dog/" rel="alternate" type="text/html" title="Dog - Hack The Box" />
+    <published>2025-05-03T00:00:00+02:00</published>
+  
+    <updated>2025-05-03T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Dog/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Dog/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Hack The Box" />
+    
+  
+
+  <summary>Dog is an easy-level Linux machine on Hack The Box (HTB) that provides a great introduction to source code leakage, CMS exploitation, and basic privilege escalation techniques. In this walkthrough, we’ll move from passive enumeration of public files like .git, to identifying hardcoded credentials, exploiting a known vulnerability in Backdrop CMS for Remote Code Execution (RCE), and finally leve...</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>Crypto, serealization, priv scalation and more …!  This machine is part of TryHackMe and is rated as a medium-level Linux challenge. It provides an excellent opportunity to practice skills in web enumeration, cryptographic exploits, and privilege escalation. Throughout the challenge, we will explore a vulnerable web application, exploit misconfigurations, and ultimately gain root access. Let’s ...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Rabbit Store - TryHackMe</title>
-    <link href="https://x-pwn3d.github.io/posts/RabbitStore/" rel="alternate" type="text/html" title="Rabbit Store - TryHackMe" />
-    <published>2025-03-02T00:00:00+02:00</published>
-  
-    <updated>2025-03-02T17:13:32+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/RabbitStore/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/RabbitStore/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="TryHackMe" />
-    
-  
-
-  <summary>Demonstrate your web application testing skills and the basics of Linux to escalate your privileges.  This machine is part of TryHackMe and is categorized as a medium-level Linux box. It offers a great learning opportunity by combining web enumeration, SSRF exploitation and privilege escalation. The challenge revolves around exploring a web application, uncovering misconfigurations, and leverag...</summary>
 
   </entry>
 

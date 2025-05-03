@@ -1,5 +1,13 @@
 [
   {
+    "title": "Dog - Hack The Box",
+    "url": "/posts/Dog/",
+    "categories": "Hack The Box",
+    "tags": "linux, web, cms, misconfiguration, git, easy",
+    "date": "2025-05-03 00:00:00 +0200",
+    "content": "Dog is an easy-level Linux machine on Hack The Box (HTB) that provides a great introduction to source code leakage, CMS exploitation, and basic privilege escalation techniques. In this walkthrough,..."
+  },
+  {
     "title": "Support - Hack The Box",
     "url": "/posts/Support/",
     "categories": "Hack The Box",
