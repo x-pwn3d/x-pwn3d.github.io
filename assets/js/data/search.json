@@ -1,5 +1,13 @@
 [
   {
+    "title": "TakeOver - TryHackMe",
+    "url": "/posts/TakeOver/",
+    "categories": "TryHackMe",
+    "tags": "web, linux, enumeration, subdomain-enumeration, ssl-certificate, host-header, easy, ctf",
+    "date": "2025-06-22 00:00:00 +0200",
+    "content": "This machine is part of TryHackMe and is rated as an easy-level Linux challenge. While its rating suggests a straightforward box, TakeOver delivers a great hands-on introduction to SSL certificate ..."
+  },
+  {
     "title": "MD2PDF - TryHackMe",
     "url": "/posts/MD2PDF/",
     "categories": "TryHackMe",
