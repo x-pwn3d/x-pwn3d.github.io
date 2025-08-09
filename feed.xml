@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-06-22T15:47:38+02:00</updated>
+  <updated>2025-08-09T22:10:56+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Capture! - TryHackMe</title>
+    <link href="https://x-pwn3d.github.io/posts/Capture!/" rel="alternate" type="text/html" title="Capture! - TryHackMe" />
+    <published>2025-08-09T00:00:00+02:00</published>
+  
+    <updated>2025-08-09T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Capture!/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Capture!/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="TryHackMe" />
+    
+  
+
+  <summary>Can you bypass the login form?  This machine, named Capture!, is part of TryHackMe and rated as an easy challenge. It offers a great opportunity to practice fundamental web enumeration and brute force techniques while dealing with common protections like captchas. Throughout this challenge, we’ll explore how to identify valid usernames, automate captcha solving, and brute force passwords to gai...</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>Support is an easy-level Windows machine on Hack The Box (HTB) that offers a great introduction to Active Directory exploitation, focusing on machine account manipulation, delegation abuse, and Kerberos ticket attacks. In this walkthrough, we’ll go from basic enumeration all the way to full DOMAIN ADMIN access by taking advantage of a subtle privilege misconfiguration and some clever ticket for...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Code - Hack The Box</title>
-    <link href="https://x-pwn3d.github.io/posts/Code/" rel="alternate" type="text/html" title="Code - Hack The Box" />
-    <published>2025-04-26T00:00:00+02:00</published>
-  
-    <updated>2025-04-26T00:00:00+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/Code/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/Code/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="Hack The Box" />
-    
-  
-
-  <summary>This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation bypass techniques, lateral movement and privilege escalation. Throughout this challenge, we will explore a restricted web application, find a way to execute arbitrary code despite strong filtering, leverage credenti...</summary>
 
   </entry>
 
