@@ -1,5 +1,13 @@
 [
   {
+    "title": "Soupedecode 01 - TryHackMe",
+    "url": "/posts/Soupedecode/",
+    "categories": "TryHackMe",
+    "tags": "windows, smb, Pass the Hash, netexec, enumeration, privilege-escalation, easy",
+    "date": "2025-08-15 00:00:00 +0200",
+    "content": "This machine, named Soupedecode, is an intense and highly engaging Windows challenge. It revolves around compromising a domain controller by leveraging multiple Active Directory attack vectors. Thr..."
+  },
+  {
     "title": "Capture - TryHackMe",
     "url": "/posts/Capture/",
     "categories": "TryHackMe",

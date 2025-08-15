@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-08-09T22:21:17+02:00</updated>
+  <updated>2025-08-15T17:36:18+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Soupedecode 01 - TryHackMe</title>
+    <link href="https://x-pwn3d.github.io/posts/Soupedecode/" rel="alternate" type="text/html" title="Soupedecode 01 - TryHackMe" />
+    <published>2025-08-15T00:00:00+02:00</published>
+  
+    <updated>2025-08-15T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Soupedecode/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Soupedecode/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="TryHackMe" />
+    
+  
+
+  <summary>This machine, named Soupedecode, is an intense and highly engaging Windows challenge. It revolves around compromising a domain controller by leveraging multiple Active Directory attack vectors. Throughout the engagement, we will enumerate SMB shares, perform password spraying against Kerberos authentication, and utilize Pass-the-Hash techniques to escalate privileges. This challenge offers a re...</summary>
+
+  </entry>
 
   
   <entry>
@@ -111,30 +135,6 @@
   
 
   <summary>Dog is an easy-level Linux machine on Hack The Box (HTB) that provides a great introduction to source code leakage, CMS exploitation, and basic privilege escalation techniques. In this walkthrough, we’ll move from passive enumeration of public files like .git, to identifying hardcoded credentials, exploiting a known vulnerability in Backdrop CMS for Remote Code Execution (RCE), and finally leve...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Support - Hack The Box</title>
-    <link href="https://x-pwn3d.github.io/posts/Support/" rel="alternate" type="text/html" title="Support - Hack The Box" />
-    <published>2025-05-01T00:00:00+02:00</published>
-  
-    <updated>2025-05-01T00:00:00+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/Support/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/Support/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="Hack The Box" />
-    
-  
-
-  <summary>Support is an easy-level Windows machine on Hack The Box (HTB) that offers a great introduction to Active Directory exploitation, focusing on machine account manipulation, delegation abuse, and Kerberos ticket attacks. In this walkthrough, we’ll go from basic enumeration all the way to full DOMAIN ADMIN access by taking advantage of a subtle privilege misconfiguration and some clever ticket for...</summary>
 
   </entry>
 
