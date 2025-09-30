@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-09-30T14:04:09+02:00</updated>
+  <updated>2025-09-30T14:08:50+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -62,6 +62,8 @@
     
     <category term="TryHackMe" />
     
+    <category term="CTF" />
+    
   
 
   <summary>This machine, named Soupedecode, is an intense and highly engaging Windows challenge. It revolves around compromising a domain controller by leveraging multiple Active Directory attack vectors. Throughout the engagement, we will enumerate SMB shares, perform password spraying against Kerberos authentication, and utilize Pass-the-Hash techniques to escalate privileges. This challenge offers a re...</summary>
@@ -85,6 +87,8 @@
   
     
     <category term="TryHackMe" />
+    
+    <category term="CTF" />
     
   
 
@@ -110,6 +114,8 @@
     
     <category term="TryHackMe" />
     
+    <category term="CTF" />
+    
   
 
   <summary>This machine is part of TryHackMe and is rated as an easy-level Linux challenge. While its rating suggests a straightforward box, TakeOver delivers a great hands-on introduction to SSL certificate inspection, subdomain enumeration, and host header exploitation. We’ll combine classical recon techniques with a bit of creativity to find hidden infrastructure and extract the final flag.  Let’s dive...</summary>
@@ -133,6 +139,8 @@
   
     
     <category term="TryHackMe" />
+    
+    <category term="CTF" />
     
   
 

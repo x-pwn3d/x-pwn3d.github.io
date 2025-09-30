@@ -10,7 +10,7 @@
   {
     "title": "Soupedecode 01 - TryHackMe",
     "url": "/posts/Soupedecode/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "windows, smb, Pass the Hash, netexec, enumeration, privilege-escalation, easy",
     "date": "2025-08-15 00:00:00 +0200",
     "content": "This machine, named Soupedecode, is an intense and highly engaging Windows challenge. It revolves around compromising a domain controller by leveraging multiple Active Directory attack vectors. Thr..."
@@ -18,7 +18,7 @@
   {
     "title": "Capture - TryHackMe",
     "url": "/posts/Capture/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "web, linux, enumeration, brute-force, captcha, login, authentication, ctf, easy",
     "date": "2025-08-09 00:00:00 +0200",
     "content": "Can you bypass the login form?  This machine, named Capture!, is part of TryHackMe and rated as an easy challenge. It offers a great opportunity to practice fundamental web enumeration and brute fo..."
@@ -26,7 +26,7 @@
   {
     "title": "TakeOver - TryHackMe",
     "url": "/posts/TakeOver/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "web, linux, enumeration, subdomain-enumeration, ssl-certificate, host-header, easy, ctf",
     "date": "2025-06-22 00:00:00 +0200",
     "content": "This machine is part of TryHackMe and is rated as an easy-level Linux challenge. While its rating suggests a straightforward box, TakeOver delivers a great hands-on introduction to SSL certificate ..."
@@ -34,7 +34,7 @@
   {
     "title": "MD2PDF - TryHackMe",
     "url": "/posts/MD2PDF/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "web, linux, enumeration, iframe-injection, access-control-bypass, markdown, easy",
     "date": "2025-06-09 00:00:00 +0200",
     "content": "This machine is part of TryHackMe and is rated as an easy-level Linux challenge. Despite its rating, it offers a solid introduction to web enumeration, access control bypass, and creative client-si..."
@@ -42,7 +42,7 @@
   {
     "title": "Dog - Hack The Box",
     "url": "/posts/Dog/",
-    "categories": "Hack The Box",
+    "categories": "Hack The Box, CTF",
     "tags": "linux, web, cms, misconfiguration, git, easy",
     "date": "2025-05-03 00:00:00 +0200",
     "content": "Dog is an easy-level Linux machine on Hack The Box (HTB) that provides a great introduction to source code leakage, CMS exploitation, and basic privilege escalation techniques. In this walkthrough,..."
@@ -50,7 +50,7 @@
   {
     "title": "Support - Hack The Box",
     "url": "/posts/Support/",
-    "categories": "Hack The Box",
+    "categories": "Hack The Box, CTF",
     "tags": "windows, active-directory, enumeration, rbcd, kerberos, s4u, evil-winrm, rubeus, easy",
     "date": "2025-05-01 00:00:00 +0200",
     "content": "Support is an easy-level Windows machine on Hack The Box (HTB) that offers a great introduction to Active Directory exploitation, focusing on machine account manipulation, delegation abuse, and Ker..."
@@ -58,7 +58,7 @@
   {
     "title": "Code - Hack The Box",
     "url": "/posts/Code/",
-    "categories": "Hack The Box",
+    "categories": "Hack The Box, CTF",
     "tags": "web, linux, enumeration, RCE, privEsc, misconfiguration, easy",
     "date": "2025-04-26 00:00:00 +0200",
     "content": "This machine, Code, is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It provides a great opportunity to practice web enumeration, dynamic code evaluation bypass techniqu..."
@@ -66,7 +66,7 @@
   {
     "title": "Nocturnal - Hack The Box",
     "url": "/posts/Nocturnal/",
-    "categories": "Hack The Box",
+    "categories": "Hack The Box, CTF",
     "tags": "web, linux, enumeration, Broken Access Control, misconfiguration, ISPConfig, cve-2023-46818, easy",
     "date": "2025-04-20 00:00:00 +0200",
     "content": "This machine is part of Hack The Box (HTB) and is rated as an easy-level Linux challenge. It’s an excellent opportunity to practice skills in web enumeration, exploiting file upload vulnerabilities..."
@@ -74,7 +74,7 @@
   {
     "title": "StuxCTF - TryHackMe",
     "url": "/posts/StuxCTF/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "web, linux, enumeration, crypto, serealization, medium",
     "date": "2025-03-16 00:00:00 +0200",
     "content": "Crypto, serealization, priv scalation and more …!  This machine is part of TryHackMe and is rated as a medium-level Linux challenge. It provides an excellent opportunity to practice skills in web e..."
@@ -82,7 +82,7 @@
   {
     "title": "Rabbit Store - TryHackMe",
     "url": "/posts/RabbitStore/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "web, linux, enumeration, ssrf, ssti, rabbitmq, medium",
     "date": "2025-03-02 00:00:00 +0200",
     "content": "Demonstrate your web application testing skills and the basics of Linux to escalate your privileges.  This machine is part of TryHackMe and is categorized as a medium-level Linux box. It offers a g..."
@@ -90,7 +90,7 @@
   {
     "title": "Titanic - Hack The Box",
     "url": "/posts/Titanic/",
-    "categories": "Hack The Box",
+    "categories": "Hack The Box, CTF",
     "tags": "web, linux, enumeration, path-traversal, sqlite, ImageMagick, cve-2024-41814, easy",
     "date": "2025-02-20 00:00:00 +0200",
     "content": "This machine is part of HTB Season 7 and is categorized as an easy Linux box. It provides a great learning experience by combining web enumeration, credential extraction, and privilege escalation. ..."
@@ -98,7 +98,7 @@
   {
     "title": "Harder - TryHackMe",
     "url": "/posts/Harder/",
-    "categories": "TryHackMe",
+    "categories": "TryHackMe, CTF",
     "tags": "web, linux, enumeration, hash-hmac-bypass, git, medium",
     "date": "2025-02-16 00:00:00 +0200",
     "content": "Real pentest findings combined (By arcc) Recon  First we need to scan the target machine (10.10.43.115) in order to find any open ports : nmap 10.10.43.115 -p- -sV -sC -oN nmapres    The scan revea..."
