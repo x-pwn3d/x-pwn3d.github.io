@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-09-30T14:15:15+02:00</updated>
+  <updated>2025-10-08T15:31:19+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Purple Team Lab – Detecting PowerShell IEX Execution with Wazuh</title>
+    <link href="https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-powershell-iex/" rel="alternate" type="text/html" title="Purple Team Lab – Detecting PowerShell IEX Execution with Wazuh" />
+    <published>2025-10-08T00:00:00+02:00</published>
+  
+    <updated>2025-10-08T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-powershell-iex/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-powershell-iex/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Home Lab" />
+    
+  
+
+  <summary>Building a realistic Purple Team scenario to detect and respond to PowerShell IEX (T1059.001) with Wazuh and Active Response.</summary>
+
+  </entry>
 
   
   <entry>
@@ -119,32 +143,6 @@
   
 
   <summary>This machine is part of TryHackMe and is rated as an easy-level Linux challenge. While its rating suggests a straightforward box, TakeOver delivers a great hands-on introduction to SSL certificate inspection, subdomain enumeration, and host header exploitation. We’ll combine classical recon techniques with a bit of creativity to find hidden infrastructure and extract the final flag.  Let’s dive...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>MD2PDF - TryHackMe</title>
-    <link href="https://x-pwn3d.github.io/posts/MD2PDF/" rel="alternate" type="text/html" title="MD2PDF - TryHackMe" />
-    <published>2025-06-09T00:00:00+02:00</published>
-  
-    <updated>2025-06-09T00:00:00+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/MD2PDF/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/MD2PDF/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="TryHackMe" />
-    
-    <category term="CTF" />
-    
-  
-
-  <summary>This machine is part of TryHackMe and is rated as an easy-level Linux challenge. Despite its rating, it offers a solid introduction to web enumeration, access control bypass, and creative client-side exploitation. Throughout the box, we’ll identify restricted resources, find clever ways to access them using browser-side vectors like iframes, and ultimately retrieve the flag hidden behind intern...</summary>
 
   </entry>
 

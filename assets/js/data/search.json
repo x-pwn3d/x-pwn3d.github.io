@@ -1,5 +1,13 @@
 [
   {
+    "title": "Purple Team Lab – Detecting PowerShell IEX Execution with Wazuh",
+    "url": "/posts/Purple-team-lab-wazuh-detect-powershell-iex/",
+    "categories": "Home Lab",
+    "tags": "Purple Team, Wazuh, SIEM, Detection, Active Response, MITRE ATT&CK, PowerShell, Windows",
+    "date": "2025-10-08 00:00:00 +0200",
+    "content": "Building a realistic Purple Team scenario to detect and respond to PowerShell IEX (T1059.001) with Wazuh and Active Response."
+  },
+  {
     "title": "Hack The Box Academy — Penetration Tester Job Role Path (Cheat-Sheet)",
     "url": "/posts/PenetrationTester/",
     "categories": "Hack The Box, Job Role Path",
