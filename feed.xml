@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-10-08T15:31:19+02:00</updated>
+  <updated>2025-10-10T17:57:02+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Purple Team Lab – Detecting LSASS Credential Dumping with Wazuh</title>
+    <link href="https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-lsass-credential-dumping/" rel="alternate" type="text/html" title="Purple Team Lab – Detecting LSASS Credential Dumping with Wazuh" />
+    <published>2025-10-10T00:00:00+02:00</published>
+  
+    <updated>2025-10-10T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-lsass-credential-dumping/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-lsass-credential-dumping/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Home Lab" />
+    
+  
+
+  <summary>Building a realistic Purple Team scenario to detect and respond to LSASS credential dumping (T1003) using Wazuh and Active Response.</summary>
+
+  </entry>
 
   
   <entry>
@@ -117,32 +141,6 @@
   
 
   <summary>Can you bypass the login form?  This machine, named Capture!, is part of TryHackMe and rated as an easy challenge. It offers a great opportunity to practice fundamental web enumeration and brute force techniques while dealing with common protections like captchas. Throughout this challenge, we’ll explore how to identify valid usernames, automate captcha solving, and brute force passwords to gai...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>TakeOver - TryHackMe</title>
-    <link href="https://x-pwn3d.github.io/posts/TakeOver/" rel="alternate" type="text/html" title="TakeOver - TryHackMe" />
-    <published>2025-06-22T00:00:00+02:00</published>
-  
-    <updated>2025-06-22T00:00:00+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/TakeOver/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/TakeOver/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="TryHackMe" />
-    
-    <category term="CTF" />
-    
-  
-
-  <summary>This machine is part of TryHackMe and is rated as an easy-level Linux challenge. While its rating suggests a straightforward box, TakeOver delivers a great hands-on introduction to SSL certificate inspection, subdomain enumeration, and host header exploitation. We’ll combine classical recon techniques with a bit of creativity to find hidden infrastructure and extract the final flag.  Let’s dive...</summary>
 
   </entry>
 

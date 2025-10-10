@@ -1,5 +1,13 @@
 [
   {
+    "title": "Purple Team Lab – Detecting LSASS Credential Dumping with Wazuh",
+    "url": "/posts/Purple-team-lab-wazuh-detect-lsass-credential-dumping/",
+    "categories": "Home Lab",
+    "tags": "Purple Team, Wazuh, SIEM, Detection, Active Response, MITRE ATT&CK, LSASS, Windows",
+    "date": "2025-10-10 00:00:00 +0200",
+    "content": "Building a realistic Purple Team scenario to detect and respond to LSASS credential dumping (T1003) using Wazuh and Active Response."
+  },
+  {
     "title": "Purple Team Lab – Detecting PowerShell IEX Execution with Wazuh",
     "url": "/posts/Purple-team-lab-wazuh-detect-powershell-iex/",
     "categories": "Home Lab",
