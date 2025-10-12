@@ -1,5 +1,13 @@
 [
   {
+    "title": "Purple Team Lab – Detecting Lateral Movement via SMB File Transfers (T1021.002)",
+    "url": "/posts/Purple-team-lab-wazuh-detect-smb/",
+    "categories": "Home Lab",
+    "tags": "Purple Team, Wazuh, SIEM, Detection, Active Response, MITRE ATT&CK, SMB, YARA, Windows",
+    "date": "2025-10-12 00:00:00 +0200",
+    "content": "Building a realistic Purple Team lab to detect and respond to SMB uploads / Windows Admin Shares (T1021.002) using Wazuh, Sysmon, FIM and YARA-based Active Response."
+  },
+  {
     "title": "Purple Team Lab – Detecting LSASS Credential Dumping with Wazuh",
     "url": "/posts/Purple-team-lab-wazuh-detect-lsass-credential-dumping/",
     "categories": "Home Lab",

@@ -4,7 +4,7 @@
   <id>https://x-pwn3d.github.io/</id>
   <title>Pwn3d</title>
   <subtitle>Young cybersecurity enthusiast passionate about offensive security and malware analysis. Always seeking new attack vectors and challenges.</subtitle>
-  <updated>2025-10-10T18:03:55+02:00</updated>
+  <updated>2025-10-12T19:38:05+02:00</updated>
   <author>
     <name>x-pwn3d</name>
     <uri>https://x-pwn3d.github.io/</uri>
@@ -17,6 +17,30 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Purple Team Lab – Detecting Lateral Movement via SMB File Transfers (T1021.002)</title>
+    <link href="https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-smb/" rel="alternate" type="text/html" title="Purple Team Lab – Detecting Lateral Movement via SMB File Transfers (T1021.002)" />
+    <published>2025-10-12T00:00:00+02:00</published>
+  
+    <updated>2025-10-12T00:00:00+02:00</updated>
+  
+    <id>https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-smb/</id>
+    <content type="text/html" src="https://x-pwn3d.github.io/posts/Purple-team-lab-wazuh-detect-smb/" />
+    <author>
+      <name>x-pwn3d</name>
+    </author>
+
+  
+    
+    <category term="Home Lab" />
+    
+  
+
+  <summary>Building a realistic Purple Team lab to detect and respond to SMB uploads / Windows Admin Shares (T1021.002) using Wazuh, Sysmon, FIM and YARA-based Active Response.</summary>
+
+  </entry>
 
   
   <entry>
@@ -115,32 +139,6 @@
   
 
   <summary>This machine, named Soupedecode, is an intense and highly engaging Windows challenge. It revolves around compromising a domain controller by leveraging multiple Active Directory attack vectors. Throughout the engagement, we will enumerate SMB shares, perform password spraying against Kerberos authentication, and utilize Pass-the-Hash techniques to escalate privileges. This challenge offers a re...</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Capture - TryHackMe</title>
-    <link href="https://x-pwn3d.github.io/posts/Capture/" rel="alternate" type="text/html" title="Capture - TryHackMe" />
-    <published>2025-08-09T00:00:00+02:00</published>
-  
-    <updated>2025-08-09T00:00:00+02:00</updated>
-  
-    <id>https://x-pwn3d.github.io/posts/Capture/</id>
-    <content type="text/html" src="https://x-pwn3d.github.io/posts/Capture/" />
-    <author>
-      <name>x-pwn3d</name>
-    </author>
-
-  
-    
-    <category term="TryHackMe" />
-    
-    <category term="CTF" />
-    
-  
-
-  <summary>Can you bypass the login form?  This machine, named Capture!, is part of TryHackMe and rated as an easy challenge. It offers a great opportunity to practice fundamental web enumeration and brute force techniques while dealing with common protections like captchas. Throughout this challenge, we’ll explore how to identify valid usernames, automate captcha solving, and brute force passwords to gai...</summary>
 
   </entry>
 
